@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebe4fc54-1da2-4ea1-962b-a13393a563b9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MyNotebook_streamlit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site001/ds_postfix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site001/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site001/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="ebe4fc54-1da2-4ea1-962b-a13393a563b9" name="변경" comment="0430" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,12 +60,25 @@
       <option name="presentableId" value="Default" />
       <updated>1742902925931</updated>
       <workItem from="1742902926694" duration="6440000" />
-      <workItem from="1745840111702" duration="3244000" />
+      <workItem from="1745840111702" duration="3287000" />
     </task>
+    <task id="LOCAL-00001" summary="0430">
+      <option name="closed" value="true" />
+      <created>1745968761761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745968761761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0430" />
+    <option name="LAST_COMMIT_MESSAGE" value="0430" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MyNotebook_streamlit$ds_postfix.coverage" NAME="ds_postfix 커버리지 결과" MODIFIED="1742903409274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site001" />
